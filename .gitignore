@@ -12,5 +12,5 @@ venv/
 
 # Optional: Ignore large dataset
 data/recipes.csv
-data/recipes.csv
+data/reviews.csv
 
